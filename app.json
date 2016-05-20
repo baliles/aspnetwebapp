@@ -1,7 +1,7 @@
 {
   "name": "AspNet5 Web App",
   "description": "Asp.Net website using AspNet5",
-  "website": "https://aspnetwebapp.com/"
+  "website": "https://aspnetwebapp.com/",
   "repository": "https://github.com/softtrendsllc/aspnetwebapp",
   "logo": "https://github.com/softtrendsllc/aspnetwebapp/aspnet5.png",
   "keywords": ["aspnet5", "aspnet core"],
