@@ -1,6 +1,6 @@
 {
   "name": "AspNet5 Web App",
-  "description": "Asp.Net website using AspNet5",
+  "description": "Asp.Net website using Asp.Net Core",
   "website": "http://www.softtrends.com/",
   "repository": "https://github.com/softtrendsllc/aspnetwebapp",
   "logo": "http://www.softtrends.com/wp-content/uploads/2014/03/soft-trends-logo1.png",
