@@ -1,9 +1,9 @@
 {
   "name": "AspNet5 Web App",
   "description": "Asp.Net website using AspNet5",
-  "website": "https://aspnetwebapp.com/",
+  "website": "http://www.softtrends.com/",
   "repository": "https://github.com/softtrendsllc/aspnetwebapp",
-  "logo": "https://aspnetwebapp.com/aspnet5.png",
+  "logo": "http://www.softtrends.com/wp-content/uploads/2014/03/soft-trends-logo1.png",
   "keywords": ["aspnet5", "aspnet core"],
   "buildpacks": [
     {
