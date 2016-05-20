@@ -3,7 +3,7 @@
   "description": "Asp.Net website using AspNet5",
   "website": "https://aspnetwebapp.com/",
   "repository": "https://github.com/softtrendsllc/aspnetwebapp",
-  "logo": "https://github.com/softtrendsllc/aspnetwebapp/blob/master/aspnet5.png",
+  "logo": "https://aspnetwebapp.herokuapp.com/aspnet5.png",
   "keywords": ["aspnet5", "aspnet core"],
   "buildpacks": [
     {
